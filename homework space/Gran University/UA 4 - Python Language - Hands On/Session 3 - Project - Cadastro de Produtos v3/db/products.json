@@ -1,0 +1,92 @@
+[
+  {
+    "code": "001",
+    "name": "Product A",
+    "price": 10.99,
+    "quantity": 100
+  },
+  {
+    "code": "002",
+    "name": "Product B",
+    "price": 25.5,
+    "quantity": 200
+  },
+  {
+    "code": "003",
+    "name": "Product C",
+    "price": 5.75,
+    "quantity": 150
+  },
+  {
+    "code": "004",
+    "name": "Product D",
+    "price": 322.99,
+    "quantity": 50
+  },
+  {
+    "code": "005",
+    "name": "Product E",
+    "price": 15.99,
+    "quantity": 500
+  },
+  {
+    "code": "006",
+    "name": "Product F",
+    "price": 8.99,
+    "quantity": 80
+  },
+  {
+    "code": "007",
+    "name": "Product G",
+    "price": 12.49,
+    "quantity": 120
+  },
+  {
+    "code": "008",
+    "name": "Product H",
+    "price": 99.99,
+    "quantity": 30
+  },
+  {
+    "code": "009",
+    "name": "Product I",
+    "price": 2.99,
+    "quantity": 1000
+  },
+  {
+    "code": "010",
+    "name": "Product J",
+    "price": 45.0,
+    "quantity": 60
+  },
+  {
+    "code": "011",
+    "name": "Product K",
+    "price": 18.75,
+    "quantity": 75
+  },
+  {
+    "code": "012",
+    "name": "Product L",
+    "price": 7.3,
+    "quantity": 300
+  },
+  {
+    "code": "013",
+    "name": "Product M",
+    "price": 150.0,
+    "quantity": 20
+  },
+  {
+    "code": "014",
+    "name": "Product N",
+    "price": 3.5,
+    "quantity": 400
+  },
+  {
+    "code": "015",
+    "name": "Product O",
+    "price": 60.0,
+    "quantity": 40
+  }
+]

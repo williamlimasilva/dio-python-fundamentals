@@ -1,0 +1,163 @@
+Formação Python Fundamentals
+
+19 cursos
+3 desafios de código
+
+Fundamentos do Python
+6 atividades
+
+Imagem do bootcamp Ambiente de Desenvolvimento e Primeiros Passos com Python
+Curso
+Ambiente de Desenvolvimento e Primeiros Passos com Python
+ Básico
+肋1 hrs
+Baixar Certificado
+
+Imagem do bootcamp Conhecendo a Linguagem de Programação Python
+Curso
+Conhecendo a Linguagem de Programação Python
+ Básico
+肋2 hrs
+Iniciar agora
+
+Imagem do bootcamp Tipos de Operadores com Python
+Curso
+Tipos de Operadores com Python
+ Básico
+肋2 hrs
+Iniciar agora
+
+Imagem do bootcamp Estruturas Condicionais e de Repetição em Python
+Curso
+Estruturas Condicionais e de Repetição em Python
+ Básico
+肋2 hrs
+Iniciar agora
+
+Imagem do bootcamp Manipulando Strings com Python
+Curso
+Manipulando Strings com Python
+ Básico
+肋2 hrs
+Iniciar agora
+
+Imagem do bootcamp Explorando Fundamentos de Python
+Desafio de código
+Explorando Fundamentos de Python
+ Básico
+肋1 hrs
+Iniciar agora
+
+Aprendendo Estruturas de Dados com Python
+6 atividades
+
+Imagem do bootcamp Trabalhando com Listas em Python
+Curso
+Trabalhando com Listas em Python
+ Intermediário
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Conhecendo Tuplas em Python
+Curso
+Conhecendo Tuplas em Python
+ Intermediário
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Explorando Conjuntos em Python
+Curso
+Explorando Conjuntos em Python
+ Intermediário
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Aprendendo a Utilizar Dicionários em Python
+Curso
+Aprendendo a Utilizar Dicionários em Python
+ Intermediário
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Dominando Funções Python
+Curso
+Dominando Funções Python
+ Intermediário
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Dominando Estrutura de Dados com Python
+Desafio de código
+Dominando Estrutura de Dados com Python
+ Básico
+肋1 hrs
+Iniciar agora
+
+Programação Orientada a Objetos com Python
+6 atividades
+
+Imagem do bootcamp Introdução à Programação Orientada a Objetos (POO) com Python
+Curso
+Introdução à Programação Orientada a Objetos (POO) com Python
+ Avançado
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Aprendendo o Conceito de Herança com Python
+Curso
+Aprendendo o Conceito de Herança com Python
+ Avançado
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Aplicando Encapsulamento em Python
+Curso
+Aplicando Encapsulamento em Python
+ Avançado
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Conhecendo Polimorfismo em Python
+Curso
+Conhecendo Polimorfismo em Python
+ Avançado
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Interfaces e Classes Abstratas com Python
+Curso
+Interfaces e Classes Abstratas com Python
+ Avançado
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Treinando Orientação a Objetos com Python
+Desafio de código
+Treinando Orientação a Objetos com Python
+ Básico
+肋1 hrs
+Iniciar agora
+
+Decoradores, Iteradores e Manipulação de Data e Arquivos em Python
+4 atividades
+
+Imagem do bootcamp Decoradores, Iteradores e Geradores com Python
+Curso
+Decoradores, Iteradores e Geradores com Python
+ Básico
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Lidando com Data, Hora e Fuso Horário no Python
+Curso
+Lidando com Data, Hora e Fuso Horário no Python
+ Básico
+肋1 hrs
+Iniciar agora
+
+Imagem do bootcamp Manipulando Arquivos em Python
+Curso
+Manipulando Arquivos em Python
+ Básico
+肋1 hrs
+Iniciar agora

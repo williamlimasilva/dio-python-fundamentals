@@ -1,0 +1,14 @@
+[
+    {
+        "code": "004",
+        "name": "Product D",
+        "price": 322.99,
+        "quantity": 50
+    },
+    {
+        "code": "005",
+        "name": "Product E",
+        "price": 15.99,
+        "quantity": 500
+    }
+]
